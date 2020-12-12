@@ -1,8 +1,12 @@
+cdt_name:
+- cos7
 channel_sources:
 - conda-forge,defaults
 channel_targets:
 - conda-forge main
 docker_image:
-- condaforge/linux-anvil-ppc64le
+- quay.io/condaforge/linux-anvil-ppc64le
 libgcc_mutex_build_string:
 - free
+target_platform:
+- linux-ppc64le

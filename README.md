@@ -5,11 +5,9 @@ Home: https://github.com/AnacondaRecipes/_libgcc_mutex-feedstock
 
 Package license: None
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/_libgcc_mutex-feedstock/blob/master/LICENSE.txt)
 
 Summary: Mutex for libgcc and libgcc-ng
-
-
 
 Current build status
 ====================
@@ -36,24 +34,24 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_libgcc_mutex_build_stringconda_forge</td>
+              <td>linux_64_libgcc_mutex_build_stringconda_forge</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8621&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_libgcc_mutex-feedstock?branchName=master&jobName=linux&configuration=linux_libgcc_mutex_build_stringconda_forge" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_libgcc_mutex-feedstock?branchName=master&jobName=linux&configuration=linux_64_libgcc_mutex_build_stringconda_forge" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_libgcc_mutex_build_stringfree</td>
+              <td>linux_64_libgcc_mutex_build_stringfree</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8621&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_libgcc_mutex-feedstock?branchName=master&jobName=linux&configuration=linux_libgcc_mutex_build_stringfree" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_libgcc_mutex-feedstock?branchName=master&jobName=linux&configuration=linux_64_libgcc_mutex_build_stringfree" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_libgcc_mutex_build_stringmain</td>
+              <td>linux_64_libgcc_mutex_build_stringmain</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8621&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_libgcc_mutex-feedstock?branchName=master&jobName=linux&configuration=linux_libgcc_mutex_build_stringmain" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_libgcc_mutex-feedstock?branchName=master&jobName=linux&configuration=linux_64_libgcc_mutex_build_stringmain" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -81,18 +79,6 @@ Current build status
           </tbody>
         </table>
       </details>
-    </td>
-  </tr>
-  <tr>
-    <td>OSX</td>
-    <td>
-      <img src="https://img.shields.io/badge/OSX-disabled-lightgrey.svg" alt="OSX disabled">
-    </td>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td>
-      <img src="https://img.shields.io/badge/Windows-disabled-lightgrey.svg" alt="Windows disabled">
     </td>
   </tr>
 </table>
